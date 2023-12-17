@@ -7,8 +7,8 @@ Welcome to the 2048 game! This simple and addictive game is designed to run on l
 
 Include images or screenshots of your game here to illustrate its appearance and gameplay. For example:
 
-![2048 Game Screenshot 1](/path/to/screenshot1.png)
-![2048 Game Screenshot 2](/path/to/screenshot2.png)
+![2048 Game Screenshot 1](2048-1.png)
+![2048 Game Screenshot 2](2048-2.png)
 
 ## Description
 
